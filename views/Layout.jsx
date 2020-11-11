@@ -23,6 +23,8 @@ function Layout(props) {
         	withing the Layout
         */}
 
+        {props.children}
+
       </body>
     </html>
   );
